@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "author": "Elone Hoo <huchengyea@163.com>",
+  "description": "TTS (text to speech) for node.js. send text from node.js to your speakers.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elonehoo/say"
